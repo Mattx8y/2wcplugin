@@ -1,2 +1,1 @@
-# 2wcplugin
-2WC Plugin
+# 2WC - A Minecraft Plugin
